@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webservice>
+	<url>http://sohappy.ipensee.com/WebService/wsInterface.asmx</url>
+	<target-namespace>http://tempuri.org/</target-namespace>
+	<method>insertRss</method>
+</webservice>

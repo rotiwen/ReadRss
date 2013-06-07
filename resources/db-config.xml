@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<server>
+	
+	<host>localhost</host>
+	<port>3306</port>
+	<user>root</user>
+	<password>shrh</password>
+	<database>iPensee_Rss</database>
+	<!--
+	<host>192.168.1.203</host>
+	<port>3306</port>
+	<user>ipensee</user>
+	<password>rhkjpass@Finance</password>
+	<database>iPensee_Rss</database>
+	-->
+</server>
